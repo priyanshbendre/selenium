@@ -1,4 +1,4 @@
-#git
+#code to initialize driver location
 from selenium import webdriver
 
 options = webdriver.ChromeOptions()
